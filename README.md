@@ -15,4 +15,4 @@ You can:
 
 demo:
 
-<img src="./preview.gif" width="500">
+<img src="./preview.gif" width="600">
